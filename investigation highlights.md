@@ -32,7 +32,7 @@ c:\Users\SBTuser\Desktop\Investigation\kape-findings
 2) Hunt for Credential Access: The attacker has accessed a file containing credentials in plain text. Identify the file name, user, and password that’s been stolen.(3 points)
 `file.ext, user:password`
 
-3) Hunt for Data Exfiltration: An attempt was made to exfiltrate this data. What IP and Port did the attacker use for C2 communication? What Living-of-the-Land binary was used? Used defanged format for IP address (eg, 192[.]168[.]1[.]1)(4 points)
+3) Hunt for Data Exfiltration: An attempt was made to exfiltrate this data. What IP and Port did the attacker use for C2 communication? What Living-of-the-Land binary was used? Used defanged format for IP address (4 points)
 `IP:Port, lolbin.exe`
 
 4) Hunt for Collection: Which PowerShell Cmdlet was used to stage the files? In which file were the staged files saved?(3 points)
