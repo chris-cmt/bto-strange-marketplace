@@ -10,8 +10,9 @@ c:\Users\SBTuser\Desktop\Investigation\chainsaw_x86_64-pc-windows-msvc\chainsaw>
 <img width="2951" height="1205" alt="image" src="https://github.com/user-attachments/assets/db008951-65f1-4394-bf49-3b9d77ce970d" />
 
 
+---
 
-3) Hunt for Credential Access: The attacker has accessed a file containing credentials in plain text. Identify the file name, user, and password that’s been stolen.(3 points)
+2) Hunt for Credential Access: The attacker has accessed a file containing credentials in plain text. Identify the file name, user, and password that’s been stolen.(3 points)
 
 Manual investigation of the FS. credentials.txt, admin:hunter2
 
